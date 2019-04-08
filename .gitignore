@@ -1,3 +1,8 @@
+# Generated dirs
+bin/
+obj/
+dep/
+
 # Prerequisites
 *.d
 
